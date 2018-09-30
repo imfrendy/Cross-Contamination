@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: b50d06436ca6c874c8fd8f9b3bce2cba
+timeCreated: 1487128191
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Corn Cob
+    100002: Corn Cob_MeshPart0
+    100004: Corn Cob_MeshPart1
+    100006: Corn Cob_MeshPart2
+    100008: Corn Cob_MeshPart3
+    100010: //RootNode
+    100012: Corn Rifle_MeshPart0
+    100014: Corn Rifle_MeshPart1
+    100016: Magazine
+    100018: Misc
+    400000: Corn Cob
+    400002: Corn Cob_MeshPart0
+    400004: Corn Cob_MeshPart1
+    400006: Corn Cob_MeshPart2
+    400008: Corn Cob_MeshPart3
+    400010: //RootNode
+    400012: Corn Rifle_MeshPart0
+    400014: Corn Rifle_MeshPart1
+    400016: Magazine
+    400018: Misc
+    2300000: Corn Cob_MeshPart0
+    2300002: Corn Cob_MeshPart1
+    2300004: Corn Cob_MeshPart2
+    2300006: Corn Cob_MeshPart3
+    2300008: Corn Rifle_MeshPart0
+    2300010: Corn Rifle_MeshPart1
+    2300012: Magazine
+    2300014: Misc
+    3300000: Corn Cob_MeshPart0
+    3300002: Corn Cob_MeshPart1
+    3300004: Corn Cob_MeshPart2
+    3300006: Corn Cob_MeshPart3
+    3300008: Corn Rifle_MeshPart0
+    3300010: Corn Rifle_MeshPart1
+    3300012: Magazine
+    3300014: Misc
+    4300000: Corn Rifle_MeshPart0
+    4300002: Corn Rifle_MeshPart1
+    4300004: Misc
+    4300006: Magazine
+    4300008: Corn Cob_MeshPart0
+    4300010: Corn Cob_MeshPart1
+    4300012: Corn Cob_MeshPart2
+    4300014: Corn Cob_MeshPart3
+    6400000: Corn Cob_MeshPart0
+    6400002: Corn Cob_MeshPart1
+    6400004: Corn Cob_MeshPart2
+    6400006: Corn Cob_MeshPart3
+    6400008: Corn Rifle_MeshPart0
+    6400010: Corn Rifle_MeshPart1
+    6400012: Magazine
+    6400014: Misc
+    7400000: entry
+    7400002: Reload
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: entry
+      takeName: Take 001
+      firstFrame: 4
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Corn Rifle_MeshPart0
+        weight: 1
+      - path: Corn Rifle_MeshPart1
+        weight: 1
+      - path: Magazine
+        weight: 1
+      - path: Magazine/Corn Cob
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart0
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart1
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart2
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart3
+        weight: 1
+      - path: Misc
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reload
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Corn Rifle_MeshPart0
+        weight: 1
+      - path: Corn Rifle_MeshPart1
+        weight: 1
+      - path: Magazine
+        weight: 1
+      - path: Magazine/Corn Cob
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart0
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart1
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart2
+        weight: 1
+      - path: Magazine/Corn Cob/Corn Cob_MeshPart3
+        weight: 1
+      - path: Misc
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: 570e7daa88f7880418a8a609217eb6ac
+timeCreated: 1485220679
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1_2
+    100004: a
+    100006: a_2
+    100008: a_3
+    100010: a_4
+    100012: C
+    100014: C_2
+    100016: C_3
+    100018: C_4
+    100020: Cap_1
+    100022: Cap_1_10
+    100024: Cap_1_11
+    100026: Cap_1_12
+    100028: Cap_1_13
+    100030: Cap_1_14
+    100032: Cap_1_15
+    100034: Cap_1_16
+    100036: Cap_1_17
+    100038: Cap_1_18
+    100040: Cap_1_19
+    100042: Cap_1_2
+    100044: Cap_1_20
+    100046: Cap_1_21
+    100048: Cap_1_22
+    100050: Cap_1_23
+    100052: Cap_1_24
+    100054: Cap_1_25
+    100056: Cap_1_26
+    100058: Cap_1_27
+    100060: Cap_1_28
+    100062: Cap_1_29
+    100064: Cap_1_3
+    100066: Cap_1_30
+    100068: Cap_1_31
+    100070: Cap_1_32
+    100072: Cap_1_33
+    100074: Cap_1_34
+    100076: Cap_1_35
+    100078: Cap_1_36
+    100080: Cap_1_4
+    100082: Cap_1_5
+    100084: Cap_1_6
+    100086: Cap_1_7
+    100088: Cap_1_8
+    100090: Cap_1_9
+    100092: Cap_2
+    100094: Cap_2_10
+    100096: Cap_2_11
+    100098: Cap_2_12
+    100100: Cap_2_13
+    100102: Cap_2_14
+    100104: Cap_2_15
+    100106: Cap_2_16
+    100108: Cap_2_17
+    100110: Cap_2_18
+    100112: Cap_2_19
+    100114: Cap_2_2
+    100116: Cap_2_20
+    100118: Cap_2_21
+    100120: Cap_2_22
+    100122: Cap_2_23
+    100124: Cap_2_24
+    100126: Cap_2_25
+    100128: Cap_2_26
+    100130: Cap_2_27
+    100132: Cap_2_28
+    100134: Cap_2_29
+    100136: Cap_2_3
+    100138: Cap_2_30
+    100140: Cap_2_31
+    100142: Cap_2_32
+    100144: Cap_2_33
+    100146: Cap_2_34
+    100148: Cap_2_35
+    100150: Cap_2_36
+    100152: Cap_2_4
+    100154: Cap_2_5
+    100156: Cap_2_6
+    100158: Cap_2_7
+    100160: Cap_2_8
+    100162: Cap_2_9
+    100164: Contamination
+    100166: Contamination_2
+    100168: Cross
+    100170: Cross_2
+    100172: i
+    100174: i_2
+    100176: i_3
+    100178: i_4
+    100180: m
+    100182: m_2
+    100184: MoText
+    100186: MoText_1
+    100188: n
+    100190: n_2
+    100192: n_3
+    100194: n_4
+    100196: n_5
+    100198: n_6
+    100200: o
+    100202: o_2
+    100204: o_3
+    100206: o_4
+    100208: o_5
+    100210: o_6
+    100212: r
+    100214: r_2
+    100216: Rounding_1
+    100218: Rounding_1_10
+    100220: Rounding_1_11
+    100222: Rounding_1_12
+    100224: Rounding_1_13
+    100226: Rounding_1_14
+    100228: Rounding_1_15
+    100230: Rounding_1_16
+    100232: Rounding_1_17
+    100234: Rounding_1_18
+    100236: Rounding_1_2
+    100238: Rounding_1_3
+    100240: Rounding_1_4
+    100242: Rounding_1_5
+    100244: Rounding_1_6
+    100246: Rounding_1_7
+    100248: Rounding_1_8
+    100250: Rounding_1_9
+    100252: Rounding_2
+    100254: Rounding_2_10
+    100256: Rounding_2_11
+    100258: Rounding_2_12
+    100260: Rounding_2_13
+    100262: Rounding_2_14
+    100264: Rounding_2_15
+    100266: Rounding_2_16
+    100268: Rounding_2_17
+    100270: Rounding_2_18
+    100272: Rounding_2_2
+    100274: Rounding_2_3
+    100276: Rounding_2_4
+    100278: Rounding_2_5
+    100280: Rounding_2_6
+    100282: Rounding_2_7
+    100284: Rounding_2_8
+    100286: Rounding_2_9
+    100288: s
+    100290: s_2
+    100292: s_3
+    100294: s_4
+    100296: t
+    100298: t_2
+    100300: t_3
+    100302: t_4
+    100304: Text
+    100306: //RootNode
+    400000: 1
+    400002: 1_2
+    400004: a
+    400006: a_2
+    400008: a_3
+    400010: a_4
+    400012: C
+    400014: C_2
+    400016: C_3
+    400018: C_4
+    400020: Cap_1
+    400022: Cap_1_10
+    400024: Cap_1_11
+    400026: Cap_1_12
+    400028: Cap_1_13
+    400030: Cap_1_14
+    400032: Cap_1_15
+    400034: Cap_1_16
+    400036: Cap_1_17
+    400038: Cap_1_18
+    400040: Cap_1_19
+    400042: Cap_1_2
+    400044: Cap_1_20
+    400046: Cap_1_21
+    400048: Cap_1_22
+    400050: Cap_1_23
+    400052: Cap_1_24
+    400054: Cap_1_25
+    400056: Cap_1_26
+    400058: Cap_1_27
+    400060: Cap_1_28
+    400062: Cap_1_29
+    400064: Cap_1_3
+    400066: Cap_1_30
+    400068: Cap_1_31
+    400070: Cap_1_32
+    400072: Cap_1_33
+    400074: Cap_1_34
+    400076: Cap_1_35
+    400078: Cap_1_36
+    400080: Cap_1_4
+    400082: Cap_1_5
+    400084: Cap_1_6
+    400086: Cap_1_7
+    400088: Cap_1_8
+    400090: Cap_1_9
+    400092: Cap_2
+    400094: Cap_2_10
+    400096: Cap_2_11
+    400098: Cap_2_12
+    400100: Cap_2_13
+    400102: Cap_2_14
+    400104: Cap_2_15
+    400106: Cap_2_16
+    400108: Cap_2_17
+    400110: Cap_2_18
+    400112: Cap_2_19
+    400114: Cap_2_2
+    400116: Cap_2_20
+    400118: Cap_2_21
+    400120: Cap_2_22
+    400122: Cap_2_23
+    400124: Cap_2_24
+    400126: Cap_2_25
+    400128: Cap_2_26
+    400130: Cap_2_27
+    400132: Cap_2_28
+    400134: Cap_2_29
+    400136: Cap_2_3
+    400138: Cap_2_30
+    400140: Cap_2_31
+    400142: Cap_2_32
+    400144: Cap_2_33
+    400146: Cap_2_34
+    400148: Cap_2_35
+    400150: Cap_2_36
+    400152: Cap_2_4
+    400154: Cap_2_5
+    400156: Cap_2_6
+    400158: Cap_2_7
+    400160: Cap_2_8
+    400162: Cap_2_9
+    400164: Contamination
+    400166: Contamination_2
+    400168: Cross
+    400170: Cross_2
+    400172: i
+    400174: i_2
+    400176: i_3
+    400178: i_4
+    400180: m
+    400182: m_2
+    400184: MoText
+    400186: MoText_1
+    400188: n
+    400190: n_2
+    400192: n_3
+    400194: n_4
+    400196: n_5
+    400198: n_6
+    400200: o
+    400202: o_2
+    400204: o_3
+    400206: o_4
+    400208: o_5
+    400210: o_6
+    400212: r
+    400214: r_2
+    400216: Rounding_1
+    400218: Rounding_1_10
+    400220: Rounding_1_11
+    400222: Rounding_1_12
+    400224: Rounding_1_13
+    400226: Rounding_1_14
+    400228: Rounding_1_15
+    400230: Rounding_1_16
+    400232: Rounding_1_17
+    400234: Rounding_1_18
+    400236: Rounding_1_2
+    400238: Rounding_1_3
+    400240: Rounding_1_4
+    400242: Rounding_1_5
+    400244: Rounding_1_6
+    400246: Rounding_1_7
+    400248: Rounding_1_8
+    400250: Rounding_1_9
+    400252: Rounding_2
+    400254: Rounding_2_10
+    400256: Rounding_2_11
+    400258: Rounding_2_12
+    400260: Rounding_2_13
+    400262: Rounding_2_14
+    400264: Rounding_2_15
+    400266: Rounding_2_16
+    400268: Rounding_2_17
+    400270: Rounding_2_18
+    400272: Rounding_2_2
+    400274: Rounding_2_3
+    400276: Rounding_2_4
+    400278: Rounding_2_5
+    400280: Rounding_2_6
+    400282: Rounding_2_7
+    400284: Rounding_2_8
+    400286: Rounding_2_9
+    400288: s
+    400290: s_2
+    400292: s_3
+    400294: s_4
+    400296: t
+    400298: t_2
+    400300: t_3
+    400302: t_4
+    400304: Text
+    400306: //RootNode
+    2300000: a
+    2300002: a_2
+    2300004: a_3
+    2300006: a_4
+    2300008: C
+    2300010: C_2
+    2300012: C_3
+    2300014: C_4
+    2300016: Cap_1
+    2300018: Cap_1_10
+    2300020: Cap_1_11
+    2300022: Cap_1_12
+    2300024: Cap_1_13
+    2300026: Cap_1_14
+    2300028: Cap_1_15
+    2300030: Cap_1_16
+    2300032: Cap_1_17
+    2300034: Cap_1_18
+    2300036: Cap_1_19
+    2300038: Cap_1_2
+    2300040: Cap_1_20
+    2300042: Cap_1_21
+    2300044: Cap_1_22
+    2300046: Cap_1_23
+    2300048: Cap_1_24
+    2300050: Cap_1_25
+    2300052: Cap_1_26
+    2300054: Cap_1_27
+    2300056: Cap_1_28
+    2300058: Cap_1_29
+    2300060: Cap_1_3
+    2300062: Cap_1_30
+    2300064: Cap_1_31
+    2300066: Cap_1_32
+    2300068: Cap_1_33
+    2300070: Cap_1_34
+    2300072: Cap_1_35
+    2300074: Cap_1_36
+    2300076: Cap_1_4
+    2300078: Cap_1_5
+    2300080: Cap_1_6
+    2300082: Cap_1_7
+    2300084: Cap_1_8
+    2300086: Cap_1_9
+    2300088: Cap_2
+    2300090: Cap_2_10
+    2300092: Cap_2_11
+    2300094: Cap_2_12
+    2300096: Cap_2_13
+    2300098: Cap_2_14
+    2300100: Cap_2_15
+    2300102: Cap_2_16
+    2300104: Cap_2_17
+    2300106: Cap_2_18
+    2300108: Cap_2_19
+    2300110: Cap_2_2
+    2300112: Cap_2_20
+    2300114: Cap_2_21
+    2300116: Cap_2_22
+    2300118: Cap_2_23
+    2300120: Cap_2_24
+    2300122: Cap_2_25
+    2300124: Cap_2_26
+    2300126: Cap_2_27
+    2300128: Cap_2_28
+    2300130: Cap_2_29
+    2300132: Cap_2_3
+    2300134: Cap_2_30
+    2300136: Cap_2_31
+    2300138: Cap_2_32
+    2300140: Cap_2_33
+    2300142: Cap_2_34
+    2300144: Cap_2_35
+    2300146: Cap_2_36
+    2300148: Cap_2_4
+    2300150: Cap_2_5
+    2300152: Cap_2_6
+    2300154: Cap_2_7
+    2300156: Cap_2_8
+    2300158: Cap_2_9
+    2300160: i
+    2300162: i_2
+    2300164: i_3
+    2300166: i_4
+    2300168: m
+    2300170: m_2
+    2300172: n
+    2300174: n_2
+    2300176: n_3
+    2300178: n_4
+    2300180: n_5
+    2300182: n_6
+    2300184: o
+    2300186: o_2
+    2300188: o_3
+    2300190: o_4
+    2300192: o_5
+    2300194: o_6
+    2300196: r
+    2300198: r_2
+    2300200: Rounding_1
+    2300202: Rounding_1_10
+    2300204: Rounding_1_11
+    2300206: Rounding_1_12
+    2300208: Rounding_1_13
+    2300210: Rounding_1_14
+    2300212: Rounding_1_15
+    2300214: Rounding_1_16
+    2300216: Rounding_1_17
+    2300218: Rounding_1_18
+    2300220: Rounding_1_2
+    2300222: Rounding_1_3
+    2300224: Rounding_1_4
+    2300226: Rounding_1_5
+    2300228: Rounding_1_6
+    2300230: Rounding_1_7
+    2300232: Rounding_1_8
+    2300234: Rounding_1_9
+    2300236: Rounding_2
+    2300238: Rounding_2_10
+    2300240: Rounding_2_11
+    2300242: Rounding_2_12
+    2300244: Rounding_2_13
+    2300246: Rounding_2_14
+    2300248: Rounding_2_15
+    2300250: Rounding_2_16
+    2300252: Rounding_2_17
+    2300254: Rounding_2_18
+    2300256: Rounding_2_2
+    2300258: Rounding_2_3
+    2300260: Rounding_2_4
+    2300262: Rounding_2_5
+    2300264: Rounding_2_6
+    2300266: Rounding_2_7
+    2300268: Rounding_2_8
+    2300270: Rounding_2_9
+    2300272: s
+    2300274: s_2
+    2300276: s_3
+    2300278: s_4
+    2300280: t
+    2300282: t_2
+    2300284: t_3
+    2300286: t_4
+    3300000: a
+    3300002: a_2
+    3300004: a_3
+    3300006: a_4
+    3300008: C
+    3300010: C_2
+    3300012: C_3
+    3300014: C_4
+    3300016: Cap_1
+    3300018: Cap_1_10
+    3300020: Cap_1_11
+    3300022: Cap_1_12
+    3300024: Cap_1_13
+    3300026: Cap_1_14
+    3300028: Cap_1_15
+    3300030: Cap_1_16
+    3300032: Cap_1_17
+    3300034: Cap_1_18
+    3300036: Cap_1_19
+    3300038: Cap_1_2
+    3300040: Cap_1_20
+    3300042: Cap_1_21
+    3300044: Cap_1_22
+    3300046: Cap_1_23
+    3300048: Cap_1_24
+    3300050: Cap_1_25
+    3300052: Cap_1_26
+    3300054: Cap_1_27
+    3300056: Cap_1_28
+    3300058: Cap_1_29
+    3300060: Cap_1_3
+    3300062: Cap_1_30
+    3300064: Cap_1_31
+    3300066: Cap_1_32
+    3300068: Cap_1_33
+    3300070: Cap_1_34
+    3300072: Cap_1_35
+    3300074: Cap_1_36
+    3300076: Cap_1_4
+    3300078: Cap_1_5
+    3300080: Cap_1_6
+    3300082: Cap_1_7
+    3300084: Cap_1_8
+    3300086: Cap_1_9
+    3300088: Cap_2
+    3300090: Cap_2_10
+    3300092: Cap_2_11
+    3300094: Cap_2_12
+    3300096: Cap_2_13
+    3300098: Cap_2_14
+    3300100: Cap_2_15
+    3300102: Cap_2_16
+    3300104: Cap_2_17
+    3300106: Cap_2_18
+    3300108: Cap_2_19
+    3300110: Cap_2_2
+    3300112: Cap_2_20
+    3300114: Cap_2_21
+    3300116: Cap_2_22
+    3300118: Cap_2_23
+    3300120: Cap_2_24
+    3300122: Cap_2_25
+    3300124: Cap_2_26
+    3300126: Cap_2_27
+    3300128: Cap_2_28
+    3300130: Cap_2_29
+    3300132: Cap_2_3
+    3300134: Cap_2_30
+    3300136: Cap_2_31
+    3300138: Cap_2_32
+    3300140: Cap_2_33
+    3300142: Cap_2_34
+    3300144: Cap_2_35
+    3300146: Cap_2_36
+    3300148: Cap_2_4
+    3300150: Cap_2_5
+    3300152: Cap_2_6
+    3300154: Cap_2_7
+    3300156: Cap_2_8
+    3300158: Cap_2_9
+    3300160: i
+    3300162: i_2
+    3300164: i_3
+    3300166: i_4
+    3300168: m
+    3300170: m_2
+    3300172: n
+    3300174: n_2
+    3300176: n_3
+    3300178: n_4
+    3300180: n_5
+    3300182: n_6
+    3300184: o
+    3300186: o_2
+    3300188: o_3
+    3300190: o_4
+    3300192: o_5
+    3300194: o_6
+    3300196: r
+    3300198: r_2
+    3300200: Rounding_1
+    3300202: Rounding_1_10
+    3300204: Rounding_1_11
+    3300206: Rounding_1_12
+    3300208: Rounding_1_13
+    3300210: Rounding_1_14
+    3300212: Rounding_1_15
+    3300214: Rounding_1_16
+    3300216: Rounding_1_17
+    3300218: Rounding_1_18
+    3300220: Rounding_1_2
+    3300222: Rounding_1_3
+    3300224: Rounding_1_4
+    3300226: Rounding_1_5
+    3300228: Rounding_1_6
+    3300230: Rounding_1_7
+    3300232: Rounding_1_8
+    3300234: Rounding_1_9
+    3300236: Rounding_2
+    3300238: Rounding_2_10
+    3300240: Rounding_2_11
+    3300242: Rounding_2_12
+    3300244: Rounding_2_13
+    3300246: Rounding_2_14
+    3300248: Rounding_2_15
+    3300250: Rounding_2_16
+    3300252: Rounding_2_17
+    3300254: Rounding_2_18
+    3300256: Rounding_2_2
+    3300258: Rounding_2_3
+    3300260: Rounding_2_4
+    3300262: Rounding_2_5
+    3300264: Rounding_2_6
+    3300266: Rounding_2_7
+    3300268: Rounding_2_8
+    3300270: Rounding_2_9
+    3300272: s
+    3300274: s_2
+    3300276: s_3
+    3300278: s_4
+    3300280: t
+    3300282: t_2
+    3300284: t_3
+    3300286: t_4
+    4300000: C
+    4300002: Rounding_1
+    4300004: Cap_1
+    4300006: Rounding_2
+    4300008: Cap_2
+    4300010: r
+    4300012: Rounding_1_2
+    4300014: Cap_1_2
+    4300016: Rounding_2_2
+    4300018: Cap_2_2
+    4300020: o
+    4300022: Rounding_1_3
+    4300024: Cap_1_3
+    4300026: Rounding_2_3
+    4300028: Cap_2_3
+    4300030: s
+    4300032: Rounding_1_4
+    4300034: Cap_1_4
+    4300036: Rounding_2_4
+    4300038: Cap_2_4
+    4300040: s_2
+    4300042: Rounding_1_5
+    4300044: Cap_1_5
+    4300046: Rounding_2_5
+    4300048: Cap_2_5
+    4300050: C_2
+    4300052: Rounding_1_6
+    4300054: Cap_1_6
+    4300056: Rounding_2_6
+    4300058: Cap_2_6
+    4300060: o_2
+    4300062: Rounding_1_7
+    4300064: Cap_1_7
+    4300066: Rounding_2_7
+    4300068: Cap_2_7
+    4300070: n
+    4300072: Rounding_1_8
+    4300074: Cap_1_8
+    4300076: Rounding_2_8
+    4300078: Cap_2_8
+    4300080: t
+    4300082: Rounding_1_9
+    4300084: Cap_1_9
+    4300086: Rounding_2_9
+    4300088: Cap_2_9
+    4300090: a
+    4300092: Rounding_1_10
+    4300094: Cap_1_10
+    4300096: Rounding_2_10
+    4300098: Cap_2_10
+    4300100: m
+    4300102: Rounding_1_11
+    4300104: Cap_1_11
+    4300106: Rounding_2_11
+    4300108: Cap_2_11
+    4300110: i
+    4300112: Rounding_1_12
+    4300114: Cap_1_12
+    4300116: Rounding_2_12
+    4300118: Cap_2_12
+    4300120: n_2
+    4300122: Rounding_1_13
+    4300124: Cap_1_13
+    4300126: Rounding_2_13
+    4300128: Cap_2_13
+    4300130: a_2
+    4300132: Rounding_1_14
+    4300134: Cap_1_14
+    4300136: Rounding_2_14
+    4300138: Cap_2_14
+    4300140: t_2
+    4300142: Rounding_1_15
+    4300144: Cap_1_15
+    4300146: Rounding_2_15
+    4300148: Cap_2_15
+    4300150: i_2
+    4300152: Rounding_1_16
+    4300154: Cap_1_16
+    4300156: Rounding_2_16
+    4300158: Cap_2_16
+    4300160: o_3
+    4300162: Rounding_1_17
+    4300164: Cap_1_17
+    4300166: Rounding_2_17
+    4300168: Cap_2_17
+    4300170: n_3
+    4300172: Rounding_1_18
+    4300174: Cap_1_18
+    4300176: Rounding_2_18
+    4300178: Cap_2_18
+    4300180: C_3
+    4300182: Cap_1_19
+    4300184: Cap_2_19
+    4300186: r_2
+    4300188: Cap_1_20
+    4300190: Cap_2_20
+    4300192: o_4
+    4300194: Cap_1_21
+    4300196: Cap_2_21
+    4300198: s_3
+    4300200: Cap_1_22
+    4300202: Cap_2_22
+    4300204: s_4
+    4300206: Cap_1_23
+    4300208: Cap_2_23
+    4300210: C_4
+    4300212: Cap_1_24
+    4300214: Cap_2_24
+    4300216: o_5
+    4300218: Cap_1_25
+    4300220: Cap_2_25
+    4300222: n_4
+    4300224: Cap_1_26
+    4300226: Cap_2_26
+    4300228: t_3
+    4300230: Cap_1_27
+    4300232: Cap_2_27
+    4300234: a_3
+    4300236: Cap_1_28
+    4300238: Cap_2_28
+    4300240: m_2
+    4300242: Cap_1_29
+    4300244: Cap_2_29
+    4300246: i_3
+    4300248: Cap_1_30
+    4300250: Cap_2_30
+    4300252: n_5
+    4300254: Cap_1_31
+    4300256: Cap_2_31
+    4300258: a_4
+    4300260: Cap_1_32
+    4300262: Cap_2_32
+    4300264: t_4
+    4300266: Cap_1_33
+    4300268: Cap_2_33
+    4300270: i_4
+    4300272: Cap_1_34
+    4300274: Cap_2_34
+    4300276: o_6
+    4300278: Cap_1_35
+    4300280: Cap_2_35
+    4300282: n_6
+    4300284: Cap_1_36
+    4300286: Cap_2_36
+    7400000: CINEMA_4D_Main
+    7400002: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MoText
+        weight: 1
+      - path: MoText/1_2
+        weight: 1
+      - path: MoText/1_2/Contamination_2
+        weight: 1
+      - path: MoText/1_2/Contamination_2/a_3
+        weight: 1
+      - path: MoText/1_2/Contamination_2/a_3/Cap_1_28
+        weight: 1
+      - path: MoText/1_2/Contamination_2/a_3/Cap_2_28
+        weight: 1
+      - path: MoText/1_2/Contamination_2/a_4
+        weight: 1
+      - path: MoText/1_2/Contamination_2/a_4/Cap_1_32
+        weight: 1
+      - path: MoText/1_2/Contamination_2/a_4/Cap_2_32
+        weight: 1
+      - path: MoText/1_2/Contamination_2/C_4
+        weight: 1
+      - path: MoText/1_2/Contamination_2/C_4/Cap_1_24
+        weight: 1
+      - path: MoText/1_2/Contamination_2/C_4/Cap_2_24
+        weight: 1
+      - path: MoText/1_2/Contamination_2/i_3
+        weight: 1
+      - path: MoText/1_2/Contamination_2/i_3/Cap_1_30
+        weight: 1
+      - path: MoText/1_2/Contamination_2/i_3/Cap_2_30
+        weight: 1
+      - path: MoText/1_2/Contamination_2/i_4
+        weight: 1
+      - path: MoText/1_2/Contamination_2/i_4/Cap_1_34
+        weight: 1
+      - path: MoText/1_2/Contamination_2/i_4/Cap_2_34
+        weight: 1
+      - path: MoText/1_2/Contamination_2/m_2
+        weight: 1
+      - path: MoText/1_2/Contamination_2/m_2/Cap_1_29
+        weight: 1
+      - path: MoText/1_2/Contamination_2/m_2/Cap_2_29
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_4
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_4/Cap_1_26
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_4/Cap_2_26
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_5
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_5/Cap_1_31
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_5/Cap_2_31
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_6
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_6/Cap_1_36
+        weight: 1
+      - path: MoText/1_2/Contamination_2/n_6/Cap_2_36
+        weight: 1
+      - path: MoText/1_2/Contamination_2/o_5
+        weight: 1
+      - path: MoText/1_2/Contamination_2/o_5/Cap_1_25
+        weight: 1
+      - path: MoText/1_2/Contamination_2/o_5/Cap_2_25
+        weight: 1
+      - path: MoText/1_2/Contamination_2/o_6
+        weight: 1
+      - path: MoText/1_2/Contamination_2/o_6/Cap_1_35
+        weight: 1
+      - path: MoText/1_2/Contamination_2/o_6/Cap_2_35
+        weight: 1
+      - path: MoText/1_2/Contamination_2/t_3
+        weight: 1
+      - path: MoText/1_2/Contamination_2/t_3/Cap_1_27
+        weight: 1
+      - path: MoText/1_2/Contamination_2/t_3/Cap_2_27
+        weight: 1
+      - path: MoText/1_2/Contamination_2/t_4
+        weight: 1
+      - path: MoText/1_2/Contamination_2/t_4/Cap_1_33
+        weight: 1
+      - path: MoText/1_2/Contamination_2/t_4/Cap_2_33
+        weight: 1
+      - path: MoText/1_2/Cross_2
+        weight: 1
+      - path: MoText/1_2/Cross_2/C_3
+        weight: 1
+      - path: MoText/1_2/Cross_2/C_3/Cap_1_19
+        weight: 1
+      - path: MoText/1_2/Cross_2/C_3/Cap_2_19
+        weight: 1
+      - path: MoText/1_2/Cross_2/o_4
+        weight: 1
+      - path: MoText/1_2/Cross_2/o_4/Cap_1_21
+        weight: 1
+      - path: MoText/1_2/Cross_2/o_4/Cap_2_21
+        weight: 1
+      - path: MoText/1_2/Cross_2/r_2
+        weight: 1
+      - path: MoText/1_2/Cross_2/r_2/Cap_1_20
+        weight: 1
+      - path: MoText/1_2/Cross_2/r_2/Cap_2_20
+        weight: 1
+      - path: MoText/1_2/Cross_2/s_3
+        weight: 1
+      - path: MoText/1_2/Cross_2/s_3/Cap_1_22
+        weight: 1
+      - path: MoText/1_2/Cross_2/s_3/Cap_2_22
+        weight: 1
+      - path: MoText/1_2/Cross_2/s_4
+        weight: 1
+      - path: MoText/1_2/Cross_2/s_4/Cap_1_23
+        weight: 1
+      - path: MoText/1_2/Cross_2/s_4/Cap_2_23
+        weight: 1
+      - path: MoText_1
+        weight: 1
+      - path: MoText_1/Text
+        weight: 1
+      - path: MoText_1/Text/1
+        weight: 1
+      - path: MoText_1/Text/1/Contamination
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a/Rounding_1_10
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a/Rounding_1_10/Cap_1_10
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a/Rounding_2_10
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a/Rounding_2_10/Cap_2_10
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a_2
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a_2/Rounding_1_14
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a_2/Rounding_1_14/Cap_1_14
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a_2/Rounding_2_14
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/a_2/Rounding_2_14/Cap_2_14
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/C_2
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/C_2/Rounding_1_6
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/C_2/Rounding_1_6/Cap_1_6
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/C_2/Rounding_2_6
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/C_2/Rounding_2_6/Cap_2_6
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i/Rounding_1_12
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i/Rounding_1_12/Cap_1_12
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i/Rounding_2_12
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i/Rounding_2_12/Cap_2_12
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i_2
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i_2/Rounding_1_16
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i_2/Rounding_1_16/Cap_1_16
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i_2/Rounding_2_16
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/i_2/Rounding_2_16/Cap_2_16
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/m
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/m/Rounding_1_11
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/m/Rounding_1_11/Cap_1_11
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/m/Rounding_2_11
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/m/Rounding_2_11/Cap_2_11
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n/Rounding_1_8
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n/Rounding_1_8/Cap_1_8
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n/Rounding_2_8
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n/Rounding_2_8/Cap_2_8
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_2
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_2/Rounding_1_13
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_2/Rounding_1_13/Cap_1_13
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_2/Rounding_2_13
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_2/Rounding_2_13/Cap_2_13
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_3
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_3/Rounding_1_18
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_3/Rounding_1_18/Cap_1_18
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_3/Rounding_2_18
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/n_3/Rounding_2_18/Cap_2_18
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_2
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_2/Rounding_1_7
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_2/Rounding_1_7/Cap_1_7
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_2/Rounding_2_7
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_2/Rounding_2_7/Cap_2_7
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_3
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_3/Rounding_1_17
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_3/Rounding_1_17/Cap_1_17
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_3/Rounding_2_17
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/o_3/Rounding_2_17/Cap_2_17
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t/Rounding_1_9
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t/Rounding_1_9/Cap_1_9
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t/Rounding_2_9
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t/Rounding_2_9/Cap_2_9
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t_2
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t_2/Rounding_1_15
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t_2/Rounding_1_15/Cap_1_15
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t_2/Rounding_2_15
+        weight: 1
+      - path: MoText_1/Text/1/Contamination/t_2/Rounding_2_15/Cap_2_15
+        weight: 1
+      - path: MoText_1/Text/1/Cross
+        weight: 1
+      - path: MoText_1/Text/1/Cross/C
+        weight: 1
+      - path: MoText_1/Text/1/Cross/C/Rounding_1
+        weight: 1
+      - path: MoText_1/Text/1/Cross/C/Rounding_1/Cap_1
+        weight: 1
+      - path: MoText_1/Text/1/Cross/C/Rounding_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/C/Rounding_2/Cap_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/o
+        weight: 1
+      - path: MoText_1/Text/1/Cross/o/Rounding_1_3
+        weight: 1
+      - path: MoText_1/Text/1/Cross/o/Rounding_1_3/Cap_1_3
+        weight: 1
+      - path: MoText_1/Text/1/Cross/o/Rounding_2_3
+        weight: 1
+      - path: MoText_1/Text/1/Cross/o/Rounding_2_3/Cap_2_3
+        weight: 1
+      - path: MoText_1/Text/1/Cross/r
+        weight: 1
+      - path: MoText_1/Text/1/Cross/r/Rounding_1_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/r/Rounding_1_2/Cap_1_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/r/Rounding_2_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/r/Rounding_2_2/Cap_2_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s/Rounding_1_4
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s/Rounding_1_4/Cap_1_4
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s/Rounding_2_4
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s/Rounding_2_4/Cap_2_4
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s_2
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s_2/Rounding_1_5
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s_2/Rounding_1_5/Cap_1_5
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s_2/Rounding_2_5
+        weight: 1
+      - path: MoText_1/Text/1/Cross/s_2/Rounding_2_5/Cap_2_5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

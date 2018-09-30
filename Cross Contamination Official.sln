@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross Contamination Official", "Cross Contamination Official.csproj", "{15006E8E-134E-C98D-ADF9-78A98E12111F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross Contamination Official.Plugins", "Cross Contamination Official.Plugins.csproj", "{33AAB89C-F8CC-FB80-BD4B-19AEC216051F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross Contamination Official.Editor", "Cross Contamination Official.Editor.csproj", "{5793C8D6-3D21-3C0A-DC70-490C894647C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15006E8E-134E-C98D-ADF9-78A98E12111F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15006E8E-134E-C98D-ADF9-78A98E12111F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15006E8E-134E-C98D-ADF9-78A98E12111F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15006E8E-134E-C98D-ADF9-78A98E12111F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AAB89C-F8CC-FB80-BD4B-19AEC216051F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AAB89C-F8CC-FB80-BD4B-19AEC216051F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AAB89C-F8CC-FB80-BD4B-19AEC216051F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AAB89C-F8CC-FB80-BD4B-19AEC216051F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5793C8D6-3D21-3C0A-DC70-490C894647C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5793C8D6-3D21-3C0A-DC70-490C894647C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5793C8D6-3D21-3C0A-DC70-490C894647C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5793C8D6-3D21-3C0A-DC70-490C894647C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
